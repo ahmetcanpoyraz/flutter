@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097572959415",
+    "project_id": "socialapp2-e4dfb",
+    "storage_bucket": "socialapp2-e4dfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097572959415:android:253e8289e955dc9d47f932",
+        "android_client_info": {
+          "package_name": "com.ahmetcanpoyraz.socialapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097572959415-msserhtjnca2h8uri93e1ulda6h53171.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWG7gbPk1yNx9kBFS-G7dcz13P3nmWVNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097572959415-msserhtjnca2h8uri93e1ulda6h53171.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
